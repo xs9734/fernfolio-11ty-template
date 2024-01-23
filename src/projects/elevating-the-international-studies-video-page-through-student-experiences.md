@@ -5,7 +5,10 @@ date: 2024-01-23T22:24:17.119Z
 summary: Redesigned the CSU East Bay Center for International Studies Video
   Gallery to put students and their stories front and center.
 tags:
-  - post
+  - ux
+  - figma
+  - mobile
+  - web
 ---
 ## **Project Overview**
 
