@@ -26,7 +26,7 @@ With a user-centric approach, Wundercat seamlessly integrates user preferences, 
 
 ## User Research
 
-
+![Cat parents frustrated by difficulty of keeping track of ingredients](/src/assets/img/quotes.png)
 
 ## Ideation & Concept
 
@@ -34,6 +34,6 @@ With a user-centric approach, Wundercat seamlessly integrates user preferences, 
 
 ## Prototype
 
-
+![](/src/assets/img/figma-map.png)
 
 ## Results & Takeaways
