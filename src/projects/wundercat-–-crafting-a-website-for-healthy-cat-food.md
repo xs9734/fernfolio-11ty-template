@@ -18,19 +18,26 @@ Wundercat is a mobile app designed to simplify the cat food shopping experience,
 
 ![](/src/assets/img/wundercat-cover-1.png)
 
-With a user-centric approach, Wundercat seamlessly integrates user preferences, cat profiles, and dietary specifications, offering a personalized and convenient shopping journey. Our mission is to empower cat parents with a streamlined platform that ensures not only the selection of the right food for their cats but also a stress-free and delightful shopping experience.
-
 ## My Role
 
+For this project, I worked independently, taking on multiple roles throughout the design process. From initial concept ideation to final implementation, I was responsible for every stage of the project's development. My role encompassed:
+
+* Conducting user research to understand user needs and pain points.
+* Defining project goals and objectives based on research insights.
+* Creating user personas and scenarios to guide the design process.
+* Developing wireframes, prototypes, and user flows to visualize design concepts.
+* Iteratively testing designs with potential users to gather feedback and make improvements.
+* Conducting usability testing to validate the effectiveness of the final product.
 
 
-## User Research
+
+## Define
+
+
 
 ![Cat parents frustrated by difficulty of keeping track of ingredients](/src/assets/img/quotes.png)
 
-## Ideation & Concept
-
-
+## Ideate
 
 ## Prototype
 
