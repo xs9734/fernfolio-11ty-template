@@ -24,7 +24,7 @@ section: home
     </div>
   </div>
 
-  {# Projects #}
+  {# Projects - UX Case Studies #}
   <div class="list-header">
     <h2 class="list-header__title">UX Case Studies</h2>
     <a class="btn btn--outline btn--sm" href="/projects">View All</a>
@@ -32,7 +32,7 @@ section: home
   {% from "macros/projectlist.njk" import projectlist %}
   {{ projectlist(projects = collections.project | reverse) }}
 
-  {# Articles #}
+  {# Articles - Other Projects #}
   <div class="list-header">
     <h2 class="list-header__title">Other Projects</h2>
     <a class="btn btn--outline btn--sm" href="/blog">View All</a>

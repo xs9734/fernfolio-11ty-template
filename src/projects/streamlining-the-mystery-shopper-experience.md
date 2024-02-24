@@ -6,8 +6,8 @@ summary: Enhancing Mystery Shopper experience with a mobile-friendly submission
   form for seamless interaction and efficient data collection, elevating user
   satisfaction.
 tags:
-  - Figma
-  - UX
+  - figma
+  - ux
   - mobile
 ---
 A few days ago, while sifting through my emails and casually chatting with a coworker about food, she cheekily inquired about my next rendezvous with free Panda Express. You see, for a couple of years now, I've been moonlighting as a secret shopper (*not so secret now, I suppose...*), making my way to Panda Express every six months or so. It's a gig that earns me a few bucks and a complimentary meal, provided I navigate their scripted scenarios, gather intel, and submit a detailed report—all the while staying incognito, hidden in the shadows from the unsuspecting staff.

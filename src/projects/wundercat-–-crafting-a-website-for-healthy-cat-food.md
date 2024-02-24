@@ -8,7 +8,6 @@ summary: A project focused on creating a user-friendly website for healthy cat
   owners.
 tags:
   - ux
-  - web
   - figma
   - mobile
 ---
@@ -16,7 +15,7 @@ tags:
 
 Wundercat is a mobile app designed to simplify the cat food shopping experience, specifically tailored for cat parents dealing with picky eaters or those with dietary restrictions. By addressing the unique challenges faced by cat owners, Wundercat aims to redefine the way we care for our feline companions.
 
-![](/src/assets/img/wundercat-cover-1.png)
+![Wundercat Hero Image](/src/assets/img/wundercat-cover-1.png)
 
 ## My Role
 
