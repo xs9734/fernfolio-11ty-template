@@ -44,7 +44,11 @@ B﻿ased on survey responses a large majority to participants said the most impo
 
 ![](/src/assets/img/pie-chart.png)
 
+While most participants tended to lean on access to nutritional information being easy to find, a few of the of the written responses stated it can be difficult to disseminate the information.
+
 ![](/src/assets/img/scale.png)
+
+
 
 ![](/src/assets/img/img_20240310_144849626.jpg)
 
