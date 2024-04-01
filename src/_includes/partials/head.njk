@@ -44,5 +44,13 @@
   
   {# Include lightGallery JavaScript #}
   <script src="/assets/lightgallery.min.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        lightGallery(document.getElementById('lightgallery'), {
+            plugins: [lgZoom, lgThumbnail],
+            speed: 500
+        });
+    });
+</script>
 </head>
 

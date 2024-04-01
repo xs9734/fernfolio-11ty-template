@@ -13,7 +13,7 @@ section: home
         <div class="hero__body">{{ home.body | markdown | safe }}</div>
       {% endif %}
     </div>
-    <div class="hero__col">
+    <div class="hero__col" id="lightgallery">
       {% image
         home.image,
         home.image_alt,
