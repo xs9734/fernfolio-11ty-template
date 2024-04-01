@@ -21,7 +21,9 @@
   <link rel="stylesheet" href="/assets/css/main.css">
   
   {# Include lightGallery CSS #}
-  <link type="text/css" rel="stylesheet" href="/assets/lightgallery-bundle.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/css/lightgallery-bundle.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/css/lg-zoom.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/css/lg-thumbnail.min.css">
 
   {# Javascript #}
   <script>
@@ -43,7 +45,9 @@
   <script defer src="/assets/js/main.bundle.js"></script>
   
   {# Include lightGallery JavaScript #}
-  <script src="/assets/lightgallery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/lightgallery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/plugins/zoom/lg-zoom.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/plugins/thumbnail/lg-thumbnail.min.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
         lightGallery(document.getElementById('lightgallery'), {
@@ -51,6 +55,6 @@
             speed: 500
         });
     });
-</script>
+  </script>
 </head>
 
