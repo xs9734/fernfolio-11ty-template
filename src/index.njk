@@ -31,7 +31,9 @@ section: home
     <a class="btn btn--outline btn--sm" href="/projects">View All</a>
   </div>
   {% from "macros/projectlist.njk" import projectlist %}
-  {{ projectlist(projects = collections.project | reverse) }}
+  {{ projectlist(projects = collections.project) }}
+
+  {# {{ projectlist(projects = collections.project | reverse) }} <--- to fetch from newest to oldest. #}
 
   {# Commented out until I have more content, to restore remember move blog.md from @bin in pages folder.#}
   {# Articles - Other Projects
