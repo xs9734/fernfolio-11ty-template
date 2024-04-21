@@ -1,9 +1,9 @@
 ---
-title: Elevating the International Studies Video Page through Student Experiences
+title: Capturing Student Stories
 emoji: 👨‍🎓
 date: 2024-01-23T22:24:17.119Z
-summary: Redesigned the CSU East Bay Center for International Studies Video
-  Gallery to put students and their stories front and center.
+summary: Redesign of the CSU East Bay Center for International Studies Video
+  Gallery putting students and their stories front and center.
 tags:
   - ux
   - figma
@@ -12,13 +12,13 @@ tags:
 ---
 ## **Project Overview**
 
-The Center for International Studies provides information and services to potential and admitted international students.
+The redesign of the CSU Eastbay Center for International Studies Video Page aimed to enhance user experience by providing context and structure to the collection of videos available. The original page lacked clarity, with videos displayed without sufficient context or organization. To address this issue, I introduced a card-based design, where each video is presented with accompanying details, including the student's name. This approach ensures that users can easily identify and engage with the content, fostering a more intuitive and informative browsing experience.
 
 ![Preview of International Students Page on mobile](/src/assets/img/65add3e3dba71fccffa9b423_screenshot-2024-01-21-182918.jpg)
 
 ## My Role
 
-As a team we conducted user research, shared our findings. Then worked individually on different pages of the department's website, creating wireframes, prototypes while keeping communicator to ensure a uniform design. My focus was on redesigning the Video Gallery page.
+As a team we conducted user research and shared our findings. Then worked individually on different pages of the department's website, creating wireframes, prototypes while keeping communicator to ensure a uniform design. My focus was on redesigning the Video Gallery page.
 
 ## User Research
 
@@ -45,3 +45,7 @@ Recognizing the shortcomings of the original Video Gallery page, special attenti
 Throughout the redesign process, I engaged in multiple iterative cycles, carefully incorporating user feedback at each stage. A key focus area was enhancing accessibility by including video transcripts. Adhering to the design and branding guidelines set by CSU East Bay, I ensured a cohesive and brand-aligned user experience. Positive feedback from our interviewees indicated satisfaction and appreciation for the introduced changes. 
 
 ![Final iteration](/src/assets/img/65af416e905e5b94eded0b06_untitled.png)
+
+
+
+[O﻿pen Figma Prototype](https://www.figma.com/file/zPs3qNkuUJnNnmrH8D64UE/CSUEB-Student-Stories---Final?type=design&node-id=0%3A1&mode=design&t=9c3WqZoNGC1gYZND-1)
