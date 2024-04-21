@@ -13,7 +13,8 @@ section: home
         <div class="hero__body">{{ home.body | markdown | safe }}</div>
       {% endif %}
     </div>
-    <div class="hero__col" id="lightgallery">
+    {# Commented out until I have a good portrait ;p #}
+    {# <div class="hero__col" id="lightgallery">
       {% image
         home.image,
         home.image_alt,
@@ -21,7 +22,7 @@ section: home
         "hero__image shadow",
         "eager"
       %}
-    </div>
+    </div> #} 
   </div>
 
   {# Projects - UX Case Studies #}
@@ -32,15 +33,16 @@ section: home
   {% from "macros/projectlist.njk" import projectlist %}
   {{ projectlist(projects = collections.project | reverse) }}
 
-  {# Articles - Other Projects #}
+  {# Commented out until I have more content, to restore remember move blog.md from @bin in pages folder.#}
+  {# Articles - Other Projects
   <div class="list-header">
     <h2 class="list-header__title">Other Projects</h2>
     <a class="btn btn--outline btn--sm" href="/blog">View All</a>
-  </div>
+  </div> 
   {% from "macros/articlelist.njk" import articlelist %}
   {{ articlelist(
     articles = collections.post | reverse,
     show_tags = false,
     limit = 3
-  ) }}
+  ) }}  #}
 </div>
