@@ -50,7 +50,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/plugins/thumbnail/lg-thumbnail.min.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-        lightGallery(document.getElementById('lightgallery'), {
+        lightGallery(document.getElementByClass('lightgallery'), {
             plugins: [lgZoom, lgThumbnail],
             speed: 500
         });
