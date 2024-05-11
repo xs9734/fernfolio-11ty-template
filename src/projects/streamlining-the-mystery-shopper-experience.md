@@ -3,8 +3,7 @@ title: Streamlined Mystery Shopping
 emoji: 🛍
 date: 2024-02-11T05:57:41.311Z
 summary: Enhancing Mystery Shopper experience with a mobile-friendly submission
-  form for seamless interaction and efficient data collection, elevating user
-  satisfaction.
+  form for a pain free experience
 tags:
   - figma
   - ux
