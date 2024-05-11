@@ -16,7 +16,12 @@ async function imageShortcode (src, alt, sizes, classes ='lightgallery', loading
     decoding: 'async',
   };
 
-  return Image.generateHTML(metadata, imageAttributes);
+  let imageHTML = Image.generateHTML(metadata, imageAttributes);
+
+  // Wrap the image HTML with a div with id "lightgallery"
+  let wrappedHTML = `<div id="lightgallery">${imageHTML}</div>`;
+
+  return wrappedHTML;
 }
 
 module.exports = imageShortcode;
