@@ -1,5 +1,5 @@
 ---
-title: Streamlining the Mystery Shopper Experience
+title: Streamlined Mystery Shopping
 emoji: 🛍
 date: 2024-02-11T05:57:41.311Z
 summary: Enhancing Mystery Shopper experience with a mobile-friendly submission
