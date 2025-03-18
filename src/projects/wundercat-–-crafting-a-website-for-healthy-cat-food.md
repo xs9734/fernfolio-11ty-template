@@ -26,7 +26,7 @@ For this project, I worked independently, taking on multiple roles throughout th
 * Iteratively testing designs with potential users to gather feedback and make improvements.
 * Conducting usability testing to validate the effectiveness of the final product.
 
-## Understand
+## Understanding
 
 I began my research by visiting various cat food retailer websites to understand the information they provide on their product page. It became apparent that while some offered extensive details, others lacked sufficient information. Recognizing the importance of striking a balance, I aimed to find a middle ground. Too much information could overwhelm potential customers, while too little could leave them uninformed.
 
@@ -36,27 +36,25 @@ After conducting this research, I gained a clearer understanding of the question
 
 ![image of a cat with a speech bubble requesting the public to submit a survey about cat food.](/src/assets/img/cat-food-survey.png "Cat Nutrition Survey Poster Photo")
 
-To conduct my survey I created a poster and posted this across town. People love cat memes so having a slightly funny poster depicting a cat would be a perfect way to grab people's attention. 
+To conduct my survey, I created a poster and posted this across town. People love cat memes so having a slightly funny poster depicting a cat would be a perfect way to grab people's attention. 
 
-B﻿ased on survey responses a large majority to participants said the most important nutritional information they look for is Ingredients. 
+Based on survey responses a large majority to participants said the most important nutritional information they look for is Ingredients. 
 
-![](/src/assets/img/pie-chart.png)
+![Pie chart with title "Most Important Nutritional Information", 77.8% Ingredients, 11.1% Medical, 11.1% Protein Content](/src/assets/img/pie-chart.png)
 
 While most participants tended to lean on access to nutritional information being easy to find, a few of the of the written responses stated it can be difficult to disseminate the information.
 
-![](/src/assets/img/scale.png)
+![Bar Chart for 'Access to Nutritional Information, Scale 1 Difficult to 5 Easy.](/src/assets/img/scale.png)
 
-
-
-![](/src/assets/img/img_20240310_144849626.jpg)
+![Whiteboard, Additional Information users desired](/src/assets/img/img_20240310_144849626.jpg)
 
 ## Define
 
-![Cat parents frustrated by difficulty of keeping track of ingredients](/src/assets/img/quotes.png)
+![Quotes from Cat parents frustrated by difficulty of keeping track of ingredients](/src/assets/img/quotes.png)
 
-## Ideate
+## Ideation
 
-## Prototype
+## Prototyping
 
 ![](/src/assets/img/figma-map.png)
 
